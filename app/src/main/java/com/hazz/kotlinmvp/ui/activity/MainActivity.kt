@@ -24,8 +24,6 @@ import java.util.*
 
 class MainActivity : BaseActivity() {
 
-
-
     private val mTitles = arrayOf("每日精选", "发现", "热门", "我的")
 
     // 未被选中的图标
